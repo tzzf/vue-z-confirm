@@ -1,0 +1,19 @@
+{
+  "name": "vue-z-confirm",
+  "version": "1.0.2",
+  "description": "confirm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tzzf",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tzzf/vue-z-confirm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tzzf/vue-z-confirm/issues"
+  },
+  "homepage": "https://github.com/tzzf/vue-z-confirm#readme"
+}
